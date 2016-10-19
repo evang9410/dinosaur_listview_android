@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">DinoListViewApp</string>
-    <string name ="header">DINOSAURS!</string>
+    <string name="header">DINOSAURS!</string>
 </resources>
